@@ -6,13 +6,13 @@ public class SecondProgram {
 		
 		// TODO Auto-generated method stub
 		int a=20,b=10,c=15;
-		if(a>b) {
+		if(a>5) {
 		    	System.out.println("a is greater than b");
 		}
-		    
 		else {
 		    	System.out.println("False");
-		    }
+		}
+		
 
 
 	}
